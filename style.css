@@ -402,5 +402,45 @@ footer span{
         font-size:30px;
 
     }
+    footer{
 
+        margin-top:60px;
+
+        text-align:center;
+
+        color:white;
+
+        padding:30px;
+
+    }
+
+    footer h3{
+
+        font-size:22px;
+
+        margin-bottom:15px;
+
+    }
+
+    footer span{
+
+        color:#FFD700;
+
+        font-weight:bold;
+
+    }
+
+    .footer-message{
+
+        max-width:700px;
+
+        margin:auto;
+
+        font-size:17px;
+
+        line-height:2;
+
+        color:#e5e7eb;
+
+    }
 }
